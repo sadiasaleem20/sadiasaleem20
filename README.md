@@ -7,7 +7,6 @@ I'm a developer interested in MERN stack and AI applications.
 * 💻 Building web applications with React, Node.js, Express.js, and MongoDB
 * 🤖 Exploring AI and integrating AI features into web applications
 * 🌱 Continuously learning and improving my development skills
-* 📍 Lahore, Pakistan
 
 ## Tech Stack
 
