@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Sadia 👋
 
-<!--
-**sadiasaleem20/sadiasaleem20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer interested in MERN stack and AI applications.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 💻 Building web applications with React, Node.js, Express.js, and MongoDB
+* 🤖 Exploring AI and integrating AI features into web applications
+* 🌱 Continuously learning and improving my development skills
+* 📍 Lahore, Pakistan
+
+## Tech Stack
+
+* Frontend: React.js, JavaScript, HTML, CSS
+* Backend: Node.js, Express.js
+* Databases: MongoDB, MySQL
+* Tools: Git, GitHub, Postman, VS Code
+* AI: OpenAI APIs, Prompt Engineering, AI-powered web applications
+
+## Current Focus
+
+Building full-stack applications and learning how to combine AI with modern web development.
+
+Thanks for visiting my profile! 😊
